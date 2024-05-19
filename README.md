@@ -6,8 +6,8 @@
 
 ->
 
-```json
 POST
+```json
 {
   "fonts": [
     {
@@ -123,4 +123,4 @@ POST
 
 <-
 
-canvas.png
+![canvas.png](canvas.png)
